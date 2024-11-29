@@ -19,5 +19,5 @@ yesBtn.addEventListener("click", () => {
   document.body.style.backgroundColor = "white";
   
   // Hide the buttons and show the message
-  container.innerHTML = "<h1 class='text-1xl font-bold text-pink-600'>     I knew it! I Love You Too!  💖💖💖</h1>";
+  container.innerHTML = "<h1 class='text-2xl sm:text-3xl md:text-4xl font-bold text-pink-600'>💖I knew it! I Love You Too!💖</h1>";
 });
